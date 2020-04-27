@@ -1,0 +1,18 @@
+コンパイル&実行
+g++ practice.cpp && ./a.out
+
+git備忘録
+https://qiita.com/rild/items/46ec3b2e4a99bd5cc3b0
+https://qiita.com/konweb/items/621722f67fdd8f86a017
+
+usr/local移動
+shift+command+G
+
+隠しフォルダ表示
+shift+command+.(ドット)
+
+下記g++のpath (xcode使用)
+/usr/bin/g++
+
+Atomでlinterを使う参考
+https://qiita.com/bluesky0906/items/f0f45ed1013c94f84b08
